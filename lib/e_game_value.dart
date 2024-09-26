@@ -1,0 +1,4 @@
+enum GameValue
+{
+  X, O;
+}
