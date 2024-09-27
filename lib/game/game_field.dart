@@ -1,4 +1,4 @@
-import 'package:shish_app/e_game_value.dart';
+import 'package:shish_app/game/e_game_value.dart';
 
 class GameField
 {

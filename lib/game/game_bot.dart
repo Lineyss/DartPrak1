@@ -1,5 +1,5 @@
-import 'package:shish_app/e_game_value.dart';
-import 'package:shish_app/game_field.dart';
+import 'package:shish_app/game/e_game_value.dart';
+import 'package:shish_app/game/game_field.dart';
 import 'dart:math';
 
 class GameBot
